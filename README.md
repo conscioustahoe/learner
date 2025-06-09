@@ -1159,4 +1159,4 @@ class TimingCallback(Callback):
 
 ## Credit
 
-To Jeremy Howard 🙏🏼
+To Jeremy Howard 🙏🏼  [@jeremyphoward](https://twitter.com/jeremyphoward) | [@jph00](https://github.com/jph00)
